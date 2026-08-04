@@ -21,8 +21,7 @@
 ---
 
 ## 🚀 Как запустить
-
-1. **Клонируй репозиторий**
+**Клонируй репозиторий**
 
 ```bash
 git clone https://github.com/unidari/Submarine.git
