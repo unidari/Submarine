@@ -71,15 +71,6 @@ text
 угол+180,расстояние
 Визуализация — данные можно принимать на ПК и строить 2D-карту (например, в Python или Processing).
 
-📁 Структура проекта
-text
-Submarine/
-├── Arduino/
-│   ├── libraries/          # Внешние библиотеки
-│   └── sketch_jul12a/
-│       └── sketch_jul12a.ino  # Основной скетч Arduino
-├── LICENSE                 # Лицензия MIT
-└── README.md              # Этот файл
 🛠 Технические детали
 Платформа: Arduino (совместимо с Uno/Nano/Mega)
 
